@@ -19,4 +19,4 @@ def all_phrases
   link
 end
 
-all-phrases
+all_phrases
